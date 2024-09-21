@@ -15,4 +15,4 @@ IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
 Fiz o Script no GPT e apliquei minha voz ao avatar da D-ID
 
 ## 🚀 Resultados
-https://studio.d-id.com/share?id=e0d41d5b268da5649945062a0b65916b&utm_source=copy
+[LINK DO VÍDEO GERADO PELA IA](https://studio.d-id.com/share?id=e0d41d5b268da5649945062a0b65916b&utm_source=copy)
